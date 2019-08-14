@@ -1,12 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: 🐛 Bug
-assignees: ''
-
+labels: ":bug: Bug"
 ---
-
 **Describe the bug**
 <!-- What did you expect to happen and what happened instead? -->
 
