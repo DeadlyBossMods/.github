@@ -9,7 +9,7 @@ I want to report a bug
 
 I want to contribute to the code
 --------------------------------
-* Make sure to discuss your ideas with the community in an [issue](https://github.com/DeadlyBossMods/DeadlyBossMods/issues) or on the Discord.
+* Make sure to discuss your ideas with the community in an [issue](https://github.com/DeadlyBossMods/DeadlyBossMods/issues) or on our [Discord](https://discord.gg/DeadlyBossMods).
 * Take a look at the open issues labeled as [`help wanted`](https://github.com/DeadlyBossMods/DeadlyBossMods/labels/help%20wanted) if you want to help without having a specific idea in mind.
 * Make sure that your PRs do not contain unnecessary commits or merge commits. [Squash commits](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History) whenever possible.
 * [Rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) (instead of merge) outdated PRs on the `master` branch.
